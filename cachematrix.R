@@ -1,7 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The example that comes with the assignment is a good reference
+## to how thes functions should be implemented.
+##
+## 1. A caching utility function to hold the inverse of the submatrix
+## 2. A function that utilizes the cache to get the inverse of the matrix
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
 
